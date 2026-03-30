@@ -1,0 +1,18 @@
+{
+    "id": "ca8aa255-9d3d-4691-80dc-1e86ba7c19cb",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.44.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "MazurokNN",
+        "homepage": "none",
+        "support": "none"
+    },
+    "name": "DM Firewall",
+    "nameSlug": "dm-firewall",
+    "classFile": "DmFirewallApp.ts",
+    "description": "Direct message protection for specified users",
+    "implements": [
+        "IPreRoomCreatePrevent"
+    ]
+}
