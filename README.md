@@ -155,3 +155,9 @@ rc-apps deploy --url https://your-server.com --username admin --password secret
 4. Нажмите **Save**
 
 ---
+
+## ⚙️ Логирование
+```
+this.getLogger().log()
+```
+---
