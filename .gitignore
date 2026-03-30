@@ -9,7 +9,8 @@ out/
 .idea/
 .idea_modules/
 
-.vscode
+.vscode/
+.rcappsconfig
 
 # macOS
 .DS_Store
